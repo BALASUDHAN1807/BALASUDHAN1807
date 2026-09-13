@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Balasudhan — a CSE student at SRM KTR, passionate about coding, cybersecurity, and turning ideas into real projects.
+Hi, I'm Balasudhan — a CSE student at SRM KTR, passionate about coding, cybersecurity,Computer Science Engineering Student ,AI & ML Enthusiast,Full-Stack Developer,Building Real-World Projects
+
 
 
 ## 🌐 Socials:
