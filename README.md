@@ -1,271 +1,115 @@
- <div align="center">
-
-# ⚡ BALASUDHAN R
-
-### `AI × FULL-STACK × SOFTWARE ENGINEERING`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Software;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;LLMs+%7C+Backend+Systems+%7C+Web+Applications;Turning+Ideas+Into+Working+Products" alt="Animated typing introduction" />
-
-**CSE Undergraduate @ SRM Institute of Science and Technology, Chennai**
-
-*I turn real-world problems into intelligent, scalable software.*
-
-<br/>
-
-<a href="https://github.com/BALASUDHAN1807">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rbalasudhan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rbalasudhan1807@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="./assets/Balasudhan_R_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-View_PDF-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=header" width="100%" alt="Blue futuristic divider"/>
-
-</div>
-
----
-
-## `01` // ABOUT ME
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Balasudhan R"
-        self.role = "Software Engineer in the Making"
-        self.education = "B.Tech CSE @ SRMIST"
-        self.cgpa = 8.2
-        self.graduation = 2028
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "LLM Applications",
-            "Full-Stack Development",
-            "Backend Engineering"
-        ]
-
-    def current_mission(self):
-        return "Build useful software. Learn continuously."
-
-me = Developer()
-```
-
-I'm a Computer Science undergraduate passionate about building practical software products that combine **full-stack engineering, AI integration, and reliable backend systems**.
-
-From adaptive placement preparation to child-safe AI tutoring and fair campus queue management, I enjoy turning ideas into working applications.
-
-- 🤖 Exploring applied AI, machine learning, and LLM-powered products.
-- 🌐 Building responsive web applications and RESTful APIs.
-- 🧠 Strengthening DSA, system design, and core CS fundamentals.
-- 🛠️ Interested in reliable architecture, automated testing, and data integrity.
-- 🎯 Open to Software Engineering and AI/ML internships.
-
----
-
-## `02` // FEATURED PROJECTS
-
-### 🔷 CAREER-ZERO
-**Adaptive Placement Preparation Platform**
-
-<a href="https://github.com/BALASUDHAN1807/CAREER-ZERO">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="CAREER-ZERO repository"/>
-</a>
-
-A gamified placement-readiness platform that identifies skill gaps and recommends targeted practice.
-
-**Highlights**
-
-- 9 competency areas covering DSA, SQL, aptitude, debugging, and interviews.
-- 338-question assessment bank.
-- 40+ REST API endpoints powered by FastAPI.
-- Analytics engine that identifies 5 performance failure patterns.
-- Automated testing with Pytest and Vitest.
-
-**Stack:** React · TypeScript · Python · FastAPI · MongoDB · Tailwind CSS
-
----
-
-### 🟣 BotzBuddy
-**Embeddable AI Tutor for Young Learners**
-
-<a href="https://github.com/BALASUDHAN1807/BotzBuddy">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-BC8CFF?style=for-the-badge&logo=github&logoColor=white" alt="BotzBuddy repository"/>
-</a>
-
-An integration-ready STEM tutoring plugin that personalizes learning for children aged 6–14 in English and Tamil.
-
-**Highlights**
-
-- Single-script integration with Shadow DOM isolation.
-- OpenAI, Gemini, and Groq integration with automatic provider failover.
-- Child-safety safeguards and personally identifiable information filtering.
-- Grounded responses, learner mastery tracking, and instructor dashboard.
-- Automated acceptance tests.
-
-**Stack:** Node.js · Express · JavaScript · OpenAI API · Gemini API · Groq API
-
----
-
-### 🟢 CampusFlow
-**Fair Queue Management System**
-
-<a href="https://github.com/BALASUDHAN1807/campusflow">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="CampusFlow repository"/>
-</a>
-
-A campus service queue management system designed to improve fairness and maintain data consistency during concurrent operations.
-
-**Highlights**
-
-- Student and staff portals.
-- JWT authentication and role-based access control.
-- Bounded fair-skip scheduling algorithm with Smart Hold.
-- PostgreSQL transactions and row-level locking.
-- Immutable audit log for queue analytics.
-
-**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma
-
----
-
-### 🩺 SmartHealth AI
-**LLM-Powered Symptom Assessment Tool**
-
-<a href="https://github.com/BALASUDHAN1807/smart_health_ai">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-FFB86C?style=for-the-badge&logo=github&logoColor=white" alt="SmartHealth AI repository"/>
-</a>
-
-A Flask application that transforms reported symptoms into structured informational assessments, including urgency classification and self-care guidance. It is a prototype, not a substitute for professional medical evaluation.
-
-**Stack:** Python · Flask · Groq API · HTML · CSS · JavaScript
-
----
-
-### 🏦 Online Banking System
-**Secure Java Web Application**
-
-<a href="https://github.com/BALASUDHAN1807/onlinebanking">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-8B949E?style=for-the-badge&logo=github&logoColor=white" alt="Online Banking repository"/>
-</a>
-
-A banking application supporting OTP authentication, account management, deposits, withdrawals, and fund transfers.
-
-**Highlights:** MVC architecture · DAO pattern · Input validation · Exception handling
-
-**Stack:** Java · Servlets · JSP · JDBC · MySQL
-
----
-
-## `03` // TECH ARSENAL
-
 <div align="center">
 
-### LANGUAGES
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · balasudhan1807</sub></p>
+<h1>BALASUDHAN R</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>CSE Student | AI &amp; ML Enthusiast | Cybersecurity Learner | Full-Stack Developer | Building real-world projects with AI, security &amp; web technologies.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,cpp" alt="Programming languages"/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend technologies"/>
-
-### BACKEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend technologies"/>
-
-### DATABASES & ORM
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" alt="Database technologies"/>
-
-### AI / ML & DATA
-
-<img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and machine learning"/>
-
-`NumPy` · `Pandas` · `Scikit-learn` · `LLM Integration` · `Prompt Engineering`
-
-### TOOLS & TESTING
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" alt="Developer tools"/>
-
-`Pytest` · `Vitest` · `REST APIs` · `JWT` · `SQL`
-
+<p><a href="https://github.com/balasudhan1807">GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/Balasudhan_r">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/201342384?u=6d737d5754d256df9b7e290f034cbcb91fcfb022&amp;v=4" width="180" alt="BALASUDHAN R GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## `04` // ENGINEERING MINDSET
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Python · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>62 contributions · 24 active days</p></td>
+</tr>
+</table>
 
-| Focus | Approach |
-|---|---|
-| Architecture | Modular, maintainable application design |
-| Backend | REST APIs, authentication, and business logic |
-| Databases | Transactions, data consistency, and query design |
-| Applied AI | LLM integration, grounding, and fallback strategies |
-| Testing | Automated tests for critical application workflows |
-| Product thinking | Solving user problems with practical features |
+<p><sub>CSE Student | AI &amp; ML Enthusiast | Cybersecurity Learner | Full-Stack Developer | Building real-world projects with AI, security &amp; web technologies.</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-## `05` // GITHUB TELEMETRY
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>62</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="BALASUDHAN R GitHub proof metrics" />
+</picture>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BALASUDHAN1807&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUDHAN1807&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+<h2>Selected work</h2>
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&repos=balasudhan1807%2FCampusflow%2Cbalasudhan1807%2FDSA-problems%2Cbalasudhan1807%2FWaferSense-AI%2Cbalasudhan1807%2FBotzBuddy&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&repos=balasudhan1807%2FCampusflow%2Cbalasudhan1807%2FDSA-problems%2Cbalasudhan1807%2FWaferSense-AI%2Cbalasudhan1807%2FBotzBuddy&v=recruiter-projects-1&mode=dark" width="100%" alt="BALASUDHAN R selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/BALASUDHAN1807/Campusflow">Campusflow</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/BALASUDHAN1807/Campusflow">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=BALASUDHAN1807&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/DSA-problems">DSA-problems</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/WaferSense-AI">WaferSense-AI</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/BotzBuddy">BotzBuddy</a></h3><p>&quot;We don't make the child adapt to the lesson. We make the lesson adapt to the child.”</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<br/>
+<h2>Technical toolkit</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:BC8CFF&height=3&section=footer" width="100%" alt="Footer divider"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="BALASUDHAN R technology stack" />
+</picture>
+</p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>36% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
 
----
+<h2>Consistency signal</h2>
 
-## `06` // EDUCATION & CERTIFICATIONS
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="BALASUDHAN R contribution activity" />
+</picture>
+</p>
 
-🎓 **B.Tech — Computer Science and Engineering**
+<hr />
 
-SRM Institute of Science and Technology, Kattankulathur, Chennai
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/balasudhan1807">GitHub</a><br /><a href="https://github.com/Balasudhan_r">Website</a></td>
+</tr>
+</table>
 
-- Graduation: 2028
-- CGPA: 8.2 / 10
-
-📜 **Certifications**
-
-- Google Cybersecurity Professional Certificate — Google
-- Java Certification — NPTEL
-
----
-
-## `07` // CONNECT WITH ME
-
-<div align="center">
-
-**Interested in AI, developer tools, and building useful software? Let's connect.**
-
-<a href="https://github.com/BALASUDHAN1807">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rbalasudhan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rbalasudhan1807@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-**`LEARN → BUILD → TEST → IMPROVE → REPEAT`**
-
-*Designed with curiosity. Built with code. Driven by impact.*
-
-</div>
+<p align="center"><sub>BALASUDHAN R · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
