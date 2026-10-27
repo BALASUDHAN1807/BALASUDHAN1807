@@ -65,4 +65,4 @@
 
 </details>
 
-<p align="center"><sub>BALASUDHAN R · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>BALASUDHAN R · </sub></p
