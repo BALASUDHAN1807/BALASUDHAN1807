@@ -1,94 +1,115 @@
 <div align="center">
-
-<p><code>balasudhan1807@github ~ $ ./maintainer.sh</code></p>
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="BALASUDHAN R animated maintainer system scan" />
-</picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&mode=dark" width="100%" alt="BALASUDHAN R — profile" />
+  </picture>
+
+<h1>BALASUDHAN R</h1>
+<p><strong>Frontend or full-stack engineer</strong></p>
+<p>CSE Student | AI &amp; ML Enthusiast | Cybersecurity Learner | Full-Stack Developer | Building real-world projects with AI, security &amp; web technologies.
 </p>
+
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>62</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
+
+<p><a href="https://github.com/balasudhan1807">GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/Balasudhan_r">Website</a></p>
 </div>
 
-<h2>Why I build in public</h2>
+<h2>Building in public</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>Python</code> · <code>JavaScript</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>12 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>62 contributions · 24 active days</p></td>
+<td width="62%" valign="top">
+<p>CSE Student | AI &amp; ML Enthusiast | Cybersecurity Learner | Full-Stack Developer | Building real-world projects with AI, security &amp; web technologies.
+</p>
+<p><strong>Focus:</strong> TypeScript · Python · JavaScript</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="BALASUDHAN R animated colored ASCII portrait" />
+</td>
 </tr>
 </table>
 
-<p>CSE Student | AI &amp; ML Enthusiast | Cybersecurity Learner | Full-Stack Developer | Building real-world projects with AI, security &amp; web technologies.</p>
-
-<h2>Open-source toolbox</h2>
-
-<p><code>balasudhan1807@github ~ $ toolbox --list</code></p>
+<h2>What I’m shipping</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="BALASUDHAN R open-source technology toolbox" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/highlights?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&items=TypeScript%3A%3A12%20public%20repositories%7CCampusflow%3A%3AFeatured%20project%7CImpact%3A%3A0%20stars%20%C2%B7%2024%20active%20days" width="100%" alt="Highlights" />
 </p>
+
+<h2>Featured work</h2>
 
 <table width="100%">
 <tr>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>36%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>28%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>27%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>5%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>Java</strong><br /><sub>2%</sub></td>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/BALASUDHAN1807/Campusflow"><strong>Campusflow</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>JavaScript · ⭐ 0 stars · 0 forks</sub></p>
+<p><a href="https://github.com/BALASUDHAN1807/Campusflow">View project →</a></p>
+</td>
 </tr>
 </table>
 
-<h2>Repositories worth exploring</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&repos=balasudhan1807%2FCampusflow%2Cbalasudhan1807%2FDSA-problems%2Cbalasudhan1807%2FWaferSense-AI%2Cbalasudhan1807%2FBotzBuddy%2Cbalasudhan1807%2FCAREER-ZERO&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&repos=balasudhan1807%2FCampusflow%2Cbalasudhan1807%2FDSA-problems%2Cbalasudhan1807%2FWaferSense-AI%2Cbalasudhan1807%2FBotzBuddy%2Cbalasudhan1807%2FCAREER-ZERO&v=oss-projects-1&mode=dark" width="860" alt="BALASUDHAN R maintainer repositories" />
-</picture>
-</p>
+<h2>Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/DSA-problems">DSA-problems</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/WaferSense-AI">WaferSense-AI</a></h3><p>A public project looking for its next contributor.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/BotzBuddy">BotzBuddy</a></h3><p>&quot;We don't make the child adapt to the lesson. We make the lesson adapt to the child.”</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/BALASUDHAN1807/CAREER-ZERO">CAREER-ZERO</a></h3><p>Gamified placement preparation that turns weaknesses into playable missions.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/BALASUDHAN1807/Campusflow"><strong>Campusflow</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/BALASUDHAN1807/DSA-problems"><strong>DSA-problems</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>Open source · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/BALASUDHAN1807/WaferSense-AI"><strong>WaferSense-AI</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>Python · ⭐ 0</sub></p>
+</td>
 </tr>
 </table>
 
-<h2>Contribution activity</h2>
+<h2>Signal</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="BALASUDHAN R open-source signal" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/stats?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4" width="100%" alt="0 stars across 12 repositories" />
 </p>
 
-<h2>Contribution trail</h2>
+<h2>Stack</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="BALASUDHAN R contribution trail" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/stack?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4" width="100%" alt="Language stack" />
+</p>
+
+<h2>Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=balasudhan1807&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&mode=dark" width="100%" alt="62 contributions in the last year" />
+  </picture>
 </p>
 
 <hr />
 
-<h2>Contribute together</h2>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/balasudhan1807">GitHub</a><br /><a href="https://github.com/Balasudhan_r">Website</a></td>
+</tr>
+</table>
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=balasudhan1807&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F201342384%3Fu%3D6d737d5754d256df9b7e290f034cbcb91fcfb022%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="BALASUDHAN R community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/balasudhan1807">GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/Balasudhan_r">Website</a></p>
-<p align="center"><sub>BALASUDHAN R · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>BALASUDHAN R · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
